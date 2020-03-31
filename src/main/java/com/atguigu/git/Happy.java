@@ -8,5 +8,6 @@ public class Happy {
 		
 		System.out.println("test conflict again");
 		System.out.println("push after TestGit");
+		
 	}
 }
