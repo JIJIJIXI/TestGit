@@ -6,6 +6,7 @@ public class Happy {
 		System.out.println("down....");
 		System.out.println("up....");
 		
+		System.out.println("test conflict again");
 		System.out.println("push after TestGit");
 	}
 }
