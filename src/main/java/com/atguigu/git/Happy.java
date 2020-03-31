@@ -6,5 +6,7 @@ public class Happy {
 		System.out.println("up....");
 		
 		System.out.println("test conflict again");
+		
+		System.out.println("edit by hot_fix");
 	}
 }
