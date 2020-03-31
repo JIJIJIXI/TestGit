@@ -8,5 +8,7 @@ public class Happy {
 		System.out.println("test conflict again");
 		
 		System.out.println("edit by hot_fix");
+		
+		System.out.println("edit by hot_fix second time");
 	}
 }
